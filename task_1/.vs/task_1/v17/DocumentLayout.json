@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\OneDrive\\Desktop\\Coding\\VSProjects\\itmo_practice\\task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA860DA8-6B11-4B1E-A505-74943F767FD4}|task_1\\task_1.vcxproj|C:\\Users\\kiril\\OneDrive\\Desktop\\Coding\\VSProjects\\itmo_practice\\task_1\\task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA860DA8-6B11-4B1E-A505-74943F767FD4}|task_1\\task_1.vcxproj|solutionrelative:task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 346,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task_1.cpp",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\Desktop\\Coding\\VSProjects\\itmo_practice\\task_1\\task_1\\task_1.cpp",
+              "RelativeDocumentMoniker": "task_1\\task_1.cpp",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\Desktop\\Coding\\VSProjects\\itmo_practice\\task_1\\task_1\\task_1.cpp",
+              "RelativeToolTip": "task_1\\task_1.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T16:25:35.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
